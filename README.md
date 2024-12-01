@@ -79,12 +79,6 @@ Epoch 50/50, Loss: 0.1234
 Test Accuracy: 99.00%
 ```
 
-### Visualization
-
-The signal distribution for "one" vs "two" objects:
-![Example Visualization](example_visualization.png)
-
----
 
 ## 🌟 Features to Explore
 
